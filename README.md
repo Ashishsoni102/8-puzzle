@@ -1,1 +1,1 @@
-# 8-puzzle
+# 8-puzzle problem
